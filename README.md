@@ -1,2 +1,2 @@
 # FlexBox
- Trainning Flexbox
+Flexbox exercises 💡
