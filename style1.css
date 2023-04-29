@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    background-color: beige;
+    padding: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    align-items: center;
+}
+ul{
+    font-size: 25px;
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    align-items: center
+}
+ul li:last-child{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding: 7px;
+    border-radius: 15%;
+}

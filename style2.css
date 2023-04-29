@@ -1,0 +1,14 @@
+.conteiner{
+    display: flex;
+    gap: 1rem;
+}
+aside{
+    border: 1px solid;
+    flex-basis: 80px;
+    height: 800px;
+}
+main{
+    border: 1px solid;
+    flex-grow: 1;
+    height: 800px;
+}

@@ -1,0 +1,10 @@
+img{
+    width: 30%;
+    height: auto;
+}
+.conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
